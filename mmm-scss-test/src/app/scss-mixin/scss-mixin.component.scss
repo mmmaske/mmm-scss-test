@@ -3,6 +3,10 @@
     background: rgba($color, 0.3);
   }
 
+  /**
+    mmm note: a mixin is a template of css properties that can use variables. mixins are @include-d in classes
+  */
+
   p {
       padding: 10px;
       margin: 10px;
